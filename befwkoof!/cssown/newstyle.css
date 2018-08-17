@@ -1,0 +1,31 @@
+.car_size{
+	height: 662px;
+	width:100%;
+}
+.main_div{
+	width: 100%;
+}
+.edit_div{
+	width: 46%;
+	height: 100%;
+	float: left;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 5%;
+}
+.container {
+    padding: 1px 1px;
+}
+.head_div{
+	text-align: center;
+	height: 100px;
+}
+.hr_style
+{
+	    width: 12%;
+    padding-top: 2px;
+    background-color: #CCCC00;
+}
+#myFooter{
+	margin-top: 600px;
+}
